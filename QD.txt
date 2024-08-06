@@ -14,6 +14,9 @@
 @@||v3-ppx.ixigua.com^$important
 @@||worldwide.sogou.com^$important
 @@||data.37wan.one^
+@@||lm.91king.win^
+@@||gamedata.37wan.one^
+@@||gtm-sg-dza35fkxd03.37wan.one^
 @@||szmg.qq.com^
 @@||adnmb3.com^
 @@||cnnic.net.cn^
