@@ -43,6 +43,7 @@
 @@||c.pc.qq.com^
 #夸克/神马
 @@||quark.sm.cn^$important
+@@||pan.quark.cn^$important
 @@||broccoli.uc.cn^$important
 #转转
 @@||app.zhuanzhuan.com^$important
