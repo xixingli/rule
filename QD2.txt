@@ -41,6 +41,7 @@
 @@||dataprajna.net^
 @@||ip.rtbasia.com^
 @@||c.pc.qq.com^
+@@||uland.taobao.com^
 #夸克/神马
 @@||h.quark.cn^$important
 @@||pan.quark.cn^$important
