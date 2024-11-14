@@ -13,6 +13,7 @@ DOMAIN-KEYWORD,baidu
 IP-CIDR,219.146.1.66/32,no-resolve
 
 # 国内DNS
+DOMAIN,127.0.0.1:6600
 DOMAIN,mail1.9wan.win
 DOMAIN-SUFFIX,dns.alidns.com
 DOMAIN-SUFFIX,doh.pub
